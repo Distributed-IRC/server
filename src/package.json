@@ -1,0 +1,16 @@
+{
+  "name": "me.camerongray.distributed-irc.server",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"What is testing?\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Cameron Gray",
+  "licence": "MIT",
+  "dependencies": {
+    "irc": "^0.5.2",
+    "sequelize": "^3.30.2"
+  }
+}
